@@ -23,5 +23,4 @@
 - **Churn flags**
 - Query the data to filter and select **behaviorally significant records.**
 
-
-
+[View Data Set](https://drive.google.com/drive/folders/15jqGLwlx-FOZwho49jqSYABqqvC616tl?usp=sharin)
