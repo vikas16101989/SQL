@@ -1,13 +1,13 @@
 
-🚀 <ins>**Project Introduction: Customer Churn Prediction System**</ins>
+🚀 <ins>**Project Brief: Customer Churn Prediction System**</ins>
 - Address the rising issue of **customer churn** in a thriving subscription-based business.
 - Emphasize the value of **retaining existing customers** over acquiring new ones.
 - Pose the key question: **Can we predict which customers are likely to leave?**
 - Goal: Build a **Customer Churn Prediction and Analysis System**.
-- **Project journey includes:**
-- **Data extraction and storage (SQL)**
-- **Data cleaning and Preaparation (Python and its Libraries)**
-- **Data visualization and reporting**
+- **Project journey will include:**
+- **Data extraction and storage with SQL**
+- **Data cleaning and Preaparation with Python and its Libraries**
+- **Data visualization and reporting with Power BI**
 - **Machine learning modeling**
 
 - **Outcome: Provide actionable insights to proactively reduce churn and improve retention.**
