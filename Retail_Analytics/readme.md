@@ -19,3 +19,8 @@ This project showcases a comprehensive set of SQL queries designed to analyze an
 - Customer Insights: Identified loyal vs occasional customers, purchase duration, and spending patterns.
 - Growth Trends: Computed month-on-month revenue growth to understand business trajectory.
 - Segmentation: Grouped customers into Low, Medium, and High segments based on purchase quantity.
+
+  **Tables**
+- **customer_profiles**:- CustomerID,age,geder,location,joindate
+- **product_inventory**:- productID,productname,category,stocklevel,price
+- **sales_transaction**:-transactionID,Customerid,productID,Quantity Purchased,Price,Transactiondate
